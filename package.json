@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.9.1",
+    "express-draft": "^1.0.4"
+  },
+  "devDependencies": {
+    "prisma": "^5.9.1"
+  }
+}
